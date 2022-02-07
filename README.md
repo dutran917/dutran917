@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dutran917
-- 🌱 I’m currently learning ReactJS,React Native
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me ductcp@gmail.com
