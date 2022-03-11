@@ -18,4 +18,4 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ductcp@gmail.com)
 
 # Github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nxNghia&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dutran917&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
