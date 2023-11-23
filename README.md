@@ -1,8 +1,8 @@
 ## Hi, I'm Tran Quoc Du
 - 😊Hanoi, Vietnam 🇻🇳.
-- [Hanoi University of Science and Technology](https://en.wikipedia.org/wiki/Hanoi_University_of_Science_and_Technology) (2018-now) 🤘🤘🤘
-- Currently work as remote Front-end intern at [Monstarlab](https://monstar-lab.com/vn/)✨
-
+- [Hanoi University of Science and Technology](https://en.wikipedia.org/wiki/Hanoi_University_of_Science_and_Technology) (2018-2023) 🤘🤘🤘
+- Worked as remote Front-end dev at [Monstarlab](https://monstar-lab.com/vn/)✨
+- Curently working at [Agiletech VietNam](https://agiletech.vn/)✨
 ## Languages and Tools 🛠 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
